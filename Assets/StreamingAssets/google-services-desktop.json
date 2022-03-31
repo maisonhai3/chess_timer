@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "457424199570",
+    "firebase_url": "https://v-cafe-maids-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "v-cafe-maids",
+    "storage_bucket": "v-cafe-maids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457424199570:android:29a7b1748c13a7c756ab4b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseStorageIO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457424199570-7mm519smp30nc6i1t9h86ehsg154po7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rx0os8OqG-deFggVbcivwvcQ48zezaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457424199570-7mm519smp30nc6i1t9h86ehsg154po7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457424199570-hnshmd1aqd3vqugpuu9jetfumh2o7co0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.VCafeMaid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457424199570:android:085be56913d06bc356ab4b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.VCafeMaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457424199570-7mm519smp30nc6i1t9h86ehsg154po7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5rx0os8OqG-deFggVbcivwvcQ48zezaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457424199570-7mm519smp30nc6i1t9h86ehsg154po7l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "457424199570-hnshmd1aqd3vqugpuu9jetfumh2o7co0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.VCafeMaid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
